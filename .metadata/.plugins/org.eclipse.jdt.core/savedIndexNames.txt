@@ -1,0 +1,26 @@
+INDEX VERSION 1.131+C:\projetosEclipse\projetosEclipseCursoNelio\.metadata\.plugins\org.eclipse.jdt.core
+43683938.index
+3614989709.index
+173602748.index
+596606138.index
+3379359443.index
+2567250881.index
+1865797976.index
+1025903942.index
+3209251462.index
+3986254205.index
+3759616882.index
+2815978449.index
+3664330321.index
+2653121026.index
+937958353.index
+3356181667.index
+2889588693.index
+3639040755.index
+3554421228.index
+2465204069.index
+3224179348.index
+172540566.index
+3704732711.index
+3011209426.index
+3219727859.index
